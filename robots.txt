@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paofucloudgw.com/sitemap.xml

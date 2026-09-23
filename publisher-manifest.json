@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9fec78593d1ffdfb18282814",
+  "owner": "wangbadani1",
+  "repo": "page-18ec8530cd548dd524392251",
+  "title": "幻世加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "18ec8530cd548dd524392251",
+      "a": "幻世加速器",
+      "b": "2027最新官网",
+      "entity": "幻世加速器",
+      "brand": "幻世加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d26681538bceba6cfd5e7bffbee53f0b64e9883f8c4b79e288c941c35bfcda79",
+      "content": {
+        "primary_entity": "幻世加速器",
+        "keyword1": "幻世加速器",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型匹配客户端，Windows、macOS、Android、iOS 与路由器各有对应安装方式。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再下载对应客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付与年付灵活选择，覆盖流媒体、游戏加速与多设备同时在线场景，按设备选择客户端并导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路质量三个角度选择套餐，比按价格排序更实用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按线路选档",
+          "AI_FEATURE_TITLE_3": "按设备数选档",
+          "AI_GUIDE_INTRO": "先明确使用场景，再完成选择与配置，三个步骤即可开始。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "幻世加速器为跨境访问与流媒体场景提供多档订阅方案，按设备数量与流量需求匹配基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "IPLC 专线加速游戏",
+          "AI_HIGHLIGHT_3": "多端客户端一键配置",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150）、旗舰版 ¥35/月（年付 ¥350）、团队版 ¥85/月（年付 ¥850），按流量与设备数对比更直观。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统版本与网络环境满足客户端运行要求，再下载对应安装包。",
+          "AI_STEP_TEXT_3": "依照客户端内置文档导入订阅链接，完成后即可切换节点使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "幻世加速器套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "幻世加速器支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "套餐支持多台设备同时在线，具体可在 Windows、macOS、iOS、Android 等系统的常见客户端中导入订阅使用，请参考对应客户端文档确认兼容性。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "获取订阅链接后，打开你选择的客户端，在订阅管理或配置导入处粘贴链接并更新，即可拉取节点信息。不同客户端操作略有差异，请以其文档为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付全年费用。以基础版为例，月付 15 元，年付 150 元，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量用尽后可等待下月重置，或升级到更高档位套餐。旗舰版和团队版提供更多流量，适合用量较大的用户。",
+          "AI_FAQ_QUESTION_5": "可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_5": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出限制时部分设备可能无法连接，建议按设备数量选择套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "paofucloudgw.com",
+    "host": "paofucloudgw.com"
+  },
+  "file_hashes": {
+    "index.html": "730e0ccd0a8bd30d3a54a082942c5f5a706ffcf9a2995954bb965da6e616072f",
+    "sitemap.xml": "1f6f1e2ce0b3b5f73a3252d6cae91eafb083424a5e0565d055b9874f0d1444d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "41c88ad98364fa5a63dd6ba48e9e105efb13aebf4b435074f1ea176df93362e8",
+    "robots.txt": "d1cd1a80c10a61168be03571254f8152cd5d0013d8ee7bf2e308f0217395c2f8",
+    "32c175dfd3d8586b0f534cf0996f8b8e.txt": "f87bae63a7e87c203c8ad9430ac2f18f126340170f6edd27d801bac12534b013"
+  },
+  "revision": "62c65cd8c7f95297cedc2ff1ab8e4002fbd91f39af45530fc042b4cf8be1b826"
+}
